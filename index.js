@@ -23,7 +23,7 @@ return n -= 1
 }
 
 function makeInt(n, base) {
-  parseInt('n', 10)
+  parseInt(, 10)
 }
 
 function preserveDecimal(n) {
